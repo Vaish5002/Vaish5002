@@ -31,7 +31,6 @@ I focus on **hands-on projects, problem-solving, and practical implementation** 
 **Role:** Full-Stack Developer & AI/DS Enthusiast  
 **Location:** India  
 **Currently Learning:** System Design, Advanced Machine Learning, Cloud Architecture  
-**Philosophy:** Always curious, always learning — building technology that solves real problems.
 
 ---
 
@@ -56,8 +55,6 @@ I focus on **hands-on projects, problem-solving, and practical implementation** 
   <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode&theme=light" />
 </p>
 
-**Specializations:** AI/ML Systems | Full-Stack Development | DSA  
-
 ---
 
 <p align="center">
@@ -70,7 +67,6 @@ I focus on **hands-on projects, problem-solving, and practical implementation** 
 A web-based application to manage daily tasks with deadlines.  
 **Key Features:** Task creation, update, deletion, deadline reminders  
 **Tech Stack:** HTML | CSS | JavaScript  
-**Repository:** [View on GitHub](https://github.com/Vaish5002/task-reminder-system)  
 
 ---
 
@@ -78,7 +74,6 @@ A web-based application to manage daily tasks with deadlines.
 A responsive website for property listings. Users can browse, filter, and navigate properties easily.  
 **Key Features:** Property listing, search/filter, responsive design  
 **Tech Stack:** HTML | CSS | JavaScript  
-**Repository:** [View on GitHub](https://github.com/Vaish5002/real-estate-website)  
 
 ---
 
@@ -86,7 +81,6 @@ A responsive website for property listings. Users can browse, filter, and naviga
 An IoT project to control music playback using sensors and microcontroller logic for hands-free automation.  
 **Key Features:** Sensor-based triggers, intelligent music control  
 **Tech Stack:** Arduino | Python  
-**Repository:** [View on GitHub](https://github.com/Vaish5002/iot-music-automation)  
 
 ---
 
