@@ -1,45 +1,98 @@
-# Sri Vaishnavi V
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Sri%20Vaishnavi%20V&fontAlign=50&fontAlignY=40&fontSize=48&color=gradient&customColorList=FADADD,E0BBE4,CDB4DB,BEE7E8,F1FAEE"
+  />
+</p>
 
-**Computer Science & Engineering (AI & DS) | Full-Stack Developer | AI & Data Science Enthusiast**  
-Passionate about building intelligent systems and scalable web solutions.  
-Bridging the gap between software engineering and artificial intelligence to create meaningful impact.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&pause=1000&color=7B8FA1&center=true&vCenter=true&width=550&lines=Pre-Final+Year+AI+and+Data+Science+Student;Aspiring+Software+Engineer;Placement+Focused+GitHub+Profile">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sri-vaishnavi-v">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:kit27.ad53@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/Vaish5002">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
 ## About Me
+I am a pre-final year student pursuing **B.Tech in Artificial Intelligence and Data Science** at  
+**Kalaignar Karunanidhi Institute of Technology, Coimbatore**.
+
+I focus on **hands-on projects, problem-solving, and practical implementation** of concepts.
 
 **Role:** Full-Stack Developer & AI/DS Enthusiast  
-**Education:** B.Tech in Artificial Intelligence and Data Science  
-**Institution:** Kalaignar Karunanidhi Institute of Technology, Coimbatore  
 **Location:** India  
-
-**Focus Areas:**  
-- Intelligent Systems  
-- Scalable Web Applications  
-- Data Structures & Algorithms  
-- AI/ML Concepts  
-
-**Currently Learning:**  
-- System Design  
-- Advanced Machine Learning  
-- Cloud Architecture  
-
+**Currently Learning:** System Design, Advanced Machine Learning, Cloud Architecture  
 **Philosophy:** Always curious, always learning — building technology that solves real problems.
 
 ---
 
-## Technical Stack
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E0BBE4" />
+</p>
 
-**Languages & Frameworks:**  
-Python | C | C++ | Java | JavaScript | React | Node.js | Next.js  
+## Technical Skills
 
-**Databases & Tools:**  
-MySQL | MongoDB | Git | Docker | VS Code  
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=light" />
+</p>
 
-**Specializations:**  
-AI/ML Systems | Full-Stack Development | DSA  
+### Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" />
+</p>
+
+### Core CS and Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode&theme=light" />
+</p>
+
+**Specializations:** AI/ML Systems | Full-Stack Development | DSA  
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=CDB4DB" />
+</p>
+
+## Projects
+
+### Task Reminder System
+A web-based application to manage daily tasks with deadlines.  
+**Key Features:** Task creation, update, deletion, deadline reminders  
+**Tech Stack:** HTML | CSS | JavaScript  
+**Repository:** [View on GitHub](https://github.com/Vaish5002/task-reminder-system)  
+
+---
+
+### Real Estate Website
+A responsive website for property listings. Users can browse, filter, and navigate properties easily.  
+**Key Features:** Property listing, search/filter, responsive design  
+**Tech Stack:** HTML | CSS | JavaScript  
+**Repository:** [View on GitHub](https://github.com/Vaish5002/real-estate-website)  
+
+---
+
+### IoT Based Music Automation
+An IoT project to control music playback using sensors and microcontroller logic for hands-free automation.  
+**Key Features:** Sensor-based triggers, intelligent music control  
+**Tech Stack:** Arduino | Python  
+**Repository:** [View on GitHub](https://github.com/Vaish5002/iot-music-automation)  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=BEE7E8" />
+</p>
 
 ## Competitive Programming
 
@@ -51,8 +104,8 @@ AI/ML Systems | Full-Stack Development | DSA
 ## Achievements & Recognition
 
 - Successfully completed multiple hands-on projects in Web Development and IoT  
-- Competitive ratings on CodeChef and LeetCode  
-- Practical implementation of AI/ML and Full-Stack concepts in projects  
+- Strong problem-solving foundation with competitive ratings on CodeChef and LeetCode  
+- Practical implementation of AI/ML and Full-Stack concepts  
 
 ---
 
@@ -64,33 +117,7 @@ AI/ML Systems | Full-Stack Development | DSA
 
 ---
 
-## Featured Projects
-
-### Task Reminder System
-A web-based application to manage daily tasks with deadlines.  
-**Key Features:** Task creation, update, deletion, deadline reminders  
-**Tech Stack:** HTML | CSS | JavaScript  
-**Repository:** [Task Reminder System](https://github.com/Vaish5002/task-reminder-system)  
-
----
-
-### Real Estate Website
-A responsive website for property listings. Users can browse, filter, and navigate properties easily.  
-**Key Features:** Property listing, search/filter, responsive design  
-**Tech Stack:** HTML | CSS | JavaScript  
-**Repository:** [Real Estate Website](https://github.com/Vaish5002/real-estate-website)  
-
----
-
-### IoT Based Music Automation
-An IoT project to control music playback using sensors and microcontroller logic for hands-free automation.  
-**Key Features:** Sensor-based triggers, intelligent music control  
-**Tech Stack:** Arduino | Python  
-**Repository:** [IoT Music Automation](https://github.com/Vaish5002/iot-music-automation)  
-
----
-
-## Connect With Me
+## Contact
 
 **Email:** kit27.ad53@gmail.com  
 **LinkedIn:** [https://www.linkedin.com/in/sri-vaishnavi-v](https://www.linkedin.com/in/sri-vaishnavi-v)  
