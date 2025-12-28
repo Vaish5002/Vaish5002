@@ -28,6 +28,11 @@ I am a pre-final year student pursuing **B.Tech in Artificial Intelligence and D
 
 I focus on building strong fundamentals through **hands-on projects**, problem-solving, and practical implementation of concepts.
 
+**Role:** Full-Stack Developer & AI/DS Enthusiast  
+**Location:** India  
+**Currently Learning:** System Design, Advanced Machine Learning, Cloud Architecture  
+**Philosophy:** Always curious, always learning — building technology that solves real problems.
+
 ---
 
 <p align="center">
@@ -51,6 +56,8 @@ I focus on building strong fundamentals through **hands-on projects**, problem-s
   <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode&theme=light" />
 </p>
 
+**Specializations:** AI/ML Systems | Full-Stack Development | DSA  
+
 ---
 
 <p align="center">
@@ -60,28 +67,26 @@ I focus on building strong fundamentals through **hands-on projects**, problem-s
 ## Projects
 
 ### Task Reminder System
-A web-based task management application that helps users manage daily tasks by adding, updating, and deleting tasks with deadlines.  
-The system improves productivity by providing a structured and simple task workflow.
-
-Repository: https://github.com/Vaish5002/task-reminder-system  
-Live Demo: https://vaish5002.github.io/task-reminder-system/
+A web-based application to manage daily tasks with deadlines.  
+**Key Features:** Task creation, update, deletion, deadline reminders  
+**Tech Stack:** HTML | CSS | JavaScript  
+**Repository:** [View on GitHub](https://github.com/Vaish5002/task-reminder-system)  
 
 ---
 
 ### Real Estate Website
-A responsive web application developed using HTML, CSS, and JavaScript to display real estate property listings.  
-Users can browse properties, view details, and navigate the site smoothly across devices.
-
-Repository: https://github.com/Vaish5002/real-estate-website  
-Live Demo: https://vaish5002.github.io/real-estate-website/
+A responsive website for property listings. Users can browse, filter, and navigate properties easily.  
+**Key Features:** Property listing, search/filter, responsive design  
+**Tech Stack:** HTML | CSS | JavaScript  
+**Repository:** [View on GitHub](https://github.com/Vaish5002/real-estate-website)  
 
 ---
 
 ### IoT Based Music Automation
-An automation-based project that controls music playback using sensor inputs and microcontroller logic.  
-The system enables hands-free music control by triggering actions based on sensor data.
-
-Repository: https://github.com/Vaish5002/iot-music-automation
+An IoT project to control music playback using sensors and microcontroller logic for hands-free automation.  
+**Key Features:** Sensor-based triggers, intelligent music control  
+**Tech Stack:** Arduino | Python  
+**Repository:** [View on GitHub](https://github.com/Vaish5002/iot-music-automation)  
 
 ---
 
@@ -91,31 +96,13 @@ Repository: https://github.com/Vaish5002/iot-music-automation
 
 ## Competitive Programming
 
-### CodeChef
-Profile: https://www.codechef.com/users/srivaish  
-
-### LeetCode
-Profile: https://leetcode.com/u/Sri_Vaishnavi_53/
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F1FAEE" />
-</p>
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaish5002&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaish5002&theme=tokyonight&hide_border=true" />
-</p>
+**CodeChef:** [https://www.codechef.com/users/srivaish](https://www.codechef.com/users/srivaish)  
+**LeetCode:** [https://leetcode.com/u/Sri_Vaishnavi_53/](https://leetcode.com/u/Sri_Vaishnavi_53/)  
 
 ---
 
 ## Contact
-Email: kit27.ad53@gmail.com  
-LinkedIn: https://www.linkedin.com/in/sri-vaishnavi-v  
-GitHub: https://github.com/Vaish5002  
+
+**Email:** kit27.ad53@gmail.com  
+**LinkedIn:** [https://www.linkedin.com/in/sri-vaishnavi-v](https://www.linkedin.com/in/sri-vaishnavi-v)  
+**GitHub:** [https://github.com/Vaish5002](https://github.com/Vaish5002)  
