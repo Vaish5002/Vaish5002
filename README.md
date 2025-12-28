@@ -20,7 +20,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=FADADD,E0BBE4,CDB4DB,BEE7E8,F1FAEE" />
+</p>
 
 ## About Me
 I am a pre-final year student pursuing **B.Tech in Artificial Intelligence and Data Science** at  
@@ -32,10 +34,8 @@ I focus on **hands-on projects, problem-solving, and practical implementation** 
 **Location:** India  
 **Currently Learning:** System Design, Advanced Machine Learning, Cloud Architecture  
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E0BBE4" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=FADADD,E0BBE4,CDB4DB,BEE7E8,F1FAEE" />
 </p>
 
 ## Technical Skills
@@ -55,10 +55,8 @@ I focus on **hands-on projects, problem-solving, and practical implementation** 
   <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode&theme=light" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=CDB4DB" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=FADADD,E0BBE4,CDB4DB,BEE7E8,F1FAEE" />
 </p>
 
 ## Projects
@@ -68,24 +66,18 @@ A web-based application to manage daily tasks with deadlines.
 **Key Features:** Task creation, update, deletion, deadline reminders  
 **Tech Stack:** HTML | CSS | JavaScript  
 
----
-
 ### Real Estate Website
 A responsive website for property listings. Users can browse, filter, and navigate properties easily.  
 **Key Features:** Property listing, search/filter, responsive design  
 **Tech Stack:** HTML | CSS | JavaScript  
-
----
 
 ### IoT Based Music Automation
 An IoT project to control music playback using sensors and microcontroller logic for hands-free automation.  
 **Key Features:** Sensor-based triggers, intelligent music control  
 **Tech Stack:** Arduino | Python  
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=BEE7E8" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=FADADD,E0BBE4,CDB4DB,BEE7E8,F1FAEE" />
 </p>
 
 ## Competitive Programming
@@ -93,7 +85,9 @@ An IoT project to control music playback using sensors and microcontroller logic
 **CodeChef:** [https://www.codechef.com/users/srivaish](https://www.codechef.com/users/srivaish)  
 **LeetCode:** [https://leetcode.com/u/Sri_Vaishnavi_53/](https://leetcode.com/u/Sri_Vaishnavi_53/)  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=FADADD,E0BBE4,CDB4DB,BEE7E8,F1FAEE" />
+</p>
 
 ## Achievements & Recognition
 
@@ -101,7 +95,9 @@ An IoT project to control music playback using sensors and microcontroller logic
 - Strong problem-solving foundation with competitive ratings on CodeChef and LeetCode  
 - Practical implementation of AI/ML and Full-Stack concepts  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=FADADD,E0BBE4,CDB4DB,BEE7E8,F1FAEE" />
+</p>
 
 ## Current Focus
 
@@ -109,7 +105,9 @@ An IoT project to control music playback using sensors and microcontroller logic
 - **AI/ML Systems:** Creating intelligent solutions for real-world problems  
 - **System Architecture:** Mastering scalable design patterns and workflows  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=FADADD,E0BBE4,CDB4DB,BEE7E8,F1FAEE" />
+</p>
 
 ## Contact
 
