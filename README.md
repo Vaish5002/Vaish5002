@@ -86,3 +86,6 @@ An IoT project to control music playback using sensors and microcontroller logic
 **Email:** kit27.ad53@gmail.com  
 **LinkedIn:** [https://www.linkedin.com/in/sri-vaishnavi-v](https://www.linkedin.com/in/sri-vaishnavi-v)  
 **GitHub:** [https://github.com/Vaish5002](https://github.com/Vaish5002)
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+
