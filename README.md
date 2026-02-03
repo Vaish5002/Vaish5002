@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Sri%20Vaishnavi%20V&fontSize=50&fontAlignY=35&desc=AI%20%26%20Data%20Science%20|%20Full%20Stack%20Developer&descAlignY=55"/>
+<img src="./Sri Vaishnavi.png"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=7F56D9&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Projects+That+Solve+Real+Problems;Consistent+Learner+%7C+Problem+Solver" />
 
